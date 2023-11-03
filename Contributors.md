@@ -315,6 +315,7 @@
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Avinash S](https://github.com/Hunter305)
 - [Saurabh hingade](https://github.com/sauravhingade)
+- [Imran Tachmuradov](https://github.com/DarkMagicED)
 - [Alom Jaiswal](https://github.com/alom2407)
 - [Galaxy Martian](https://github.com/GalaxyMart1an)
 - [Jesús Zúñiga Trejo](https://github.com/zutjmx)
